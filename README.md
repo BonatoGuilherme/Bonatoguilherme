@@ -1,7 +1,3 @@
-# Olá, eu sou o Guilherme! 👋
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00008B,100:ADD8E6&height=180&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontSize=35&fontAlign=50&fontColor=ffffff" alt="Banner"/>
-</p>
 
 ---
 <p align="center">
