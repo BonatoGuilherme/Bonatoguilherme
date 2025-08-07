@@ -8,7 +8,10 @@
 ## 🚀 Sobre mim
 - 👨‍💻 Sou novo na área, estou me aprofundando em Node.js, atualmente procuro meu primeiro emprego na área
 - 🌱 Aprendendo: **IOT e Node.js**
-- 📫 Contato: [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/guilherme-dos-santos-bonato-bb4806311?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) | [Gmail para contato](mailto:GuilhermeBonato344@gmail.com)
+ <p align="center">Contato<br> 
+   <a href="https://www.linkedin.com/in/guilherme-dos-santos-bonato-bb4806311" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a> <a href="mailto:GuilhermeBonato344@gmail.com" target="_blank">      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
+
 
 ---
 
@@ -19,6 +22,10 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src = "https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src ="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"
+  
 </p>
 
 
@@ -27,4 +34,5 @@
 ## 📂 Projetos em Destaque
 
 - [FeedBackCell](#) — Um site de catálogo de celulares
+- 
 
