@@ -9,7 +9,9 @@
 - 👨‍💻 Sou novo na área, estou me aprofundando em Node.js, atualmente procuro meu primeiro emprego na área
 - 🌱 Aprendendo: **IOT e Node.js**
  <p align="center">Contato<br> 
-   <a href="https://www.linkedin.com/in/guilherme-dos-santos-bonato-bb4806311" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a> <a href="mailto:GuilhermeBonato344@gmail.com" target="_blank">      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+   <a href="https://www.linkedin.com/in/guilherme-dos-santos-bonato-bb4806311" target="_blank">
+     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" url="https://www.linkedin.com/in/guilherme-dos-santos-bonato-bb4806311" /></a>
+   <a href="mailto:GuilhermeBonato344@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" url="guilhermebonato344@gmail.com"/></a>
 </p>
 
 
