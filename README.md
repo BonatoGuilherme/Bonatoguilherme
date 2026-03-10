@@ -6,16 +6,8 @@
 </p>
 
 ## 🚀 Sobre mim
-- 🌱 Aprendendo: **React.js, Next.js e Node.js**
- <p align="center">Contato<br> 
-   <a href="https://www.linkedin.com/in/guilherme-dos-santos-bonato-bb4806311" target="_blank">
-     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" url="https://www.linkedin.com/in/guilherme-dos-santos-bonato-bb4806311" /></a>
-   <a href="mailto:GuilhermeBonato344@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" url="guilhermebonato344@gmail.com"/></a>
-</p>
-
-
+- 🌱 Aprendendo: **React.js, Next.js e Node.js** 
 ---
-
 ## 🛠️ Tecnologias e Ferramentas
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
@@ -29,11 +21,14 @@
   <img src ="https://img.shields.io/badge/next.js-000000?&logo=nextdotjs&logoColor=white"/>
   
 </p>
-
-
 ---
 
 ## 📂 Projetos em Destaque
 
 - [FeedBackCell](https://github.com/BonatoGuilherme/FeedbackCell) — Um site de catálogo de celulares
 
+<p align="center">Contato<br> 
+   <a href="https://www.linkedin.com/in/guilherme-dos-santos-bonato-bb4806311" target="_blank">
+     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" url="https://www.linkedin.com/in/guilherme-dos-santos-bonato-bb4806311" /></a>
+   <a href="mailto:GuilhermeBonato344@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" url="guilhermebonato344@gmail.com"/></a>
+</p>
