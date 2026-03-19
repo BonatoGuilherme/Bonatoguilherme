@@ -47,7 +47,7 @@ Meu objetivo é evoluir como **desenvolvedor fullstack**, criando aplicações e
 Um site de **catálogo de celulares** desenvolvido para praticar desenvolvimento web.
 
 **Tecnologias utilizadas**
-- React
+- JavaScript
 - Node.js
 - MySQL
 
