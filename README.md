@@ -14,11 +14,23 @@ Brazil
 
 ---
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BonatoGuilherme&show_icons=true&theme=radical&count_private=true&hide_rank=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonatoGuilherme&layout=compact&theme=radical"/>
-</p>
+<div align="center">
+  <img
+    height="180em"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=BonatoGuilherme&theme=radical"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=BonatoGuilherme&show_icons=true&theme=radical"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BonatoGuilherme&layout=compact&theme=radical"
+  />
 
+  
+
+</div>
 ---
 
 ## About Me
