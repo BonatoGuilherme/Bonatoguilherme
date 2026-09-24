@@ -17,16 +17,17 @@ Brazil
 <div align="center">
   <img
     height="180em"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=BonatoGuilherme&theme=radical"
+    src="https://streak-stats.demolab.com/?user=BonatoGuilherme&theme=radical"
   />
   <img
     height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=BonatoGuilherme&show_icons=true&theme=radical"
+    src="https://github-readme-stats-git-main-bonatoguilhermes-projects.vercel.app/api?username=BonatoGuilherme&show_icons=true&theme=radical"
   />
   <img
     height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BonatoGuilherme&layout=compact&theme=radical"
+    src="https://github-readme-stats-git-main-bonatoguilhermes-projects.vercel.app/api/top-langs/?username=BonatoGuilherme&layout=compact&theme=radical"
   />
+</div>
 
   
 
