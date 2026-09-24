@@ -1,21 +1,20 @@
-# Hi, I'm Guilherme Bonato 👋
+# Olá, eu sou o Guilherme Dos Santos Bonato
 
 <p align="center">
   <img src="https://img.shields.io/badge/Fullstack-Developer-blue?style=flat"/>
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-green?style=flat"/>
+  <img src="https://img.shields.io/badge/Foco-Desenvolvimento%20Web-green?style=flat"/>
   <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Framework-Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Banco%20de%20Dados-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/DevOps-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BonatoGuilherme&label=Profile%20views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=BonatoGuilherme&label=Visitas%20ao%20perfil&color=blueviolet&style=flat" />
 </p>
 
-📍 Água Doce, SC — Brazil
-🎯 Buscando minha primeira oportunidade em Tecnologia da Informação — desenvolvimento, suporte, infraestrutura ou dados
+ Buscando minha primeira oportunidade em Tecnologia da Informação — desenvolvimento, suporte, infraestrutura ou dados
 
 ---
 
@@ -36,7 +35,7 @@
 
 ---
 
-## About Me
+## Sobre Mim
 
 Aplico meus conhecimentos técnicos com dedicação, responsabilidade e vontade constante de aprender, buscando contribuir com soluções eficientes e o crescimento das empresas com as quais trabalho.
 
@@ -44,7 +43,7 @@ Tenho experiência prática construindo **aplicações fullstack**, com contato 
 
 ---
 
-## 🎓 Formação
+## Formação
 
 **Técnico em Desenvolvimento de Sistemas**
 *Senai Luzerna | 2024 – 2025*
@@ -59,10 +58,10 @@ Manutenção preventiva e corretiva, instalação e configuração de sistemas o
 
 ---
 
-## 💼 Experiência Profissional
+## Experiência Profissional
 
 **Desenvolvedor Front-End Freelancer — Options Tech**
-Desenvolvimento de funcionalidades e componentes com React.js e Next.js, correção de bugs e ajustes de responsividade e UX. Contato inicial com componentização e TypeScript em ambiente de trabalho real.
+Desenvolvimento de funcionalidades e componentes com React.js e Next.js, correção de bugs e ajustes de responsividade e experiência do usuário. Contato inicial com componentização e TypeScript em ambiente de trabalho real.
 `React.js` `Next.js` `JavaScript` `TypeScript` `HTML5` `CSS3`
 
 **Estágio em Engenharia de Qualidade — Pioneiro Escapamentos** *(6 meses)*
@@ -70,20 +69,20 @@ Inspeção visual e verificação de integridade de peças, uso de instrumentos 
 
 ---
 
-## 📜 Cursos e Certificações
+## Cursos e Certificações
 
-- **Curso de Extensão em Java — Java Elite** *(em andamento)*: fundamentos de Java, POO, estruturas de dados (List, Map, Set), tratamento de exceções, NIO, e padrões de design (Factory, Template Method, Strategy)
+- **Curso de Extensão em Java — Java Elite** *(em andamento)*: fundamentos de Java, POO, estruturas de dados (List, Map, Set), tratamento de exceções, NIO e padrões de design (Factory, Template Method, Strategy)
 - **Node.js — EAD** *(Polo Luzerna, 2025)*: capacitação em desenvolvimento de aplicações com Node.js
 
 ---
 
-## 🚀 Projeto em Destaque
+## Projeto em Destaque
 
 ### FeedBackCell (em desenvolvimento)
 
 <p>
   <a href="https://github.com/BonatoGuilherme/FeedBackCell2" target="_blank">
-    <img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ver%20no-GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -95,7 +94,7 @@ Plataforma fullstack para avaliação de celulares, com autenticação JWT, CRUD
 
 ---
 
-## 🛠️ Skills
+## Habilidades
 
 **Domino bem:**
 
@@ -130,7 +129,7 @@ Plataforma fullstack para avaliação de celulares, com autenticação JWT, CRUD
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 * Conseguir minha primeira oportunidade formal em TI
 * Aprofundar conhecimento em arquitetura backend
@@ -139,7 +138,7 @@ Plataforma fullstack para avaliação de celulares, com autenticação JWT, CRUD
 
 ---
 
-## 📫 Contato
+## Contato
 
 <p align="center">
    <a href="https://www.linkedin.com/in/guilherme-dos-santos-bonato-bb4806311" target="_blank">
